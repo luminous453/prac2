@@ -1,0 +1,13 @@
+@use "variants";
+body {
+  font-family: "Shafarik", serif;
+  background-color: variants.$primary-color;
+  color: variants.$text-color;
+}
+button {
+  color: variants.$thirdly-color;
+
+  &:hover {
+    background-color: variants.$secondary-color;
+  }
+}
