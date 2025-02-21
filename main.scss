@@ -1,6 +1,6 @@
 @use "variants";
 body {
-  font-family: "Shafarik", serif;
+  font-family: variants.$font-stack;
   background-color: variants.$primary-color;
   color: variants.$text-color;
 }
