@@ -1,0 +1,14 @@
+body {
+  font-family: "Shafarik", serif;
+  background-color: #3498db;
+  color: #2ecc71;
+}
+
+button {
+  color: #6e06d4;
+}
+button:hover {
+  background-color: #2ecc71;
+}
+
+/*# sourceMappingURL=output.css.map */
